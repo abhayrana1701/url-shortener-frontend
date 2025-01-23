@@ -2,6 +2,9 @@
 
 This is a modern, responsive frontend for a URL Shortener service, built with React, Vite, Material UI, Redux Toolkit, and TypeScript. This application connects to the backend API to allow users to shorten URLs, track analytics, and manage their shortened URLs.
 
+## Demo Video
+<video src="./frontend-url-shortener.mov" controls width="600"></video>
+
 ## Features
 
 *   User Authentication: Sign up, log in, and manage authentication using JWT tokens.
