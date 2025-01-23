@@ -53,6 +53,10 @@ This is a modern, responsive frontend for a URL Shortener service, built with Re
 
     The frontend application will start on `http://localhost:5173` (default Vite port).
 
+Here are the Entity-Relationship Diagrams (ERDs) for the project:
+
+![ER Diagram](docs/er-diagram.jpeg)
+
 ## API Integration
 
 This frontend connects to the backend API for user authentication and URL management. Below are the key endpoints that the frontend interacts with:
